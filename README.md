@@ -1,7 +1,7 @@
 # Intel 8080 Architecture Emulator
 
 ## What is the Intel 8080?
-The Intel 8080 is one of the first 8-bit microprocessors ever created, and the second created by Intel after the 4004. It was widely implemented in many computer systems as a processor. It was further developed into the 8085, 8086, and then to the x86 architecture that is now ubiquitous.
+The Intel 8080 is one of the first 8-bit microprocessors ever created, and the second created by Intel after the 4004. It was widely implemented in many computer systems as a processor. It was further developed into the 8085, 8086, and then to the x86 architecture that is now ubiquitous. More information can be found [here](https://en.wikipedia.org/wiki/Intel_8080).
 
 ## Why make an Intel 8080 emulator?
 The Intel 8080 is a popular beginner's system for writing emulators, due to its simplicity and the fact that other processors mimic its design. For example, the Nintendo Gameboy uses an architecture similar to the 8080, so I would be practiced at future development by writing an Intel 8080 emulator.
