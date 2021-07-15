@@ -2,6 +2,8 @@
 # does not currently support 8085 architecture
 import sys
 
+rom = sys.argv[1]
+
 # six 8-bit registers + one 16-bit memory register + one 8-bit accumulator register
 # labelled B C D E H L M A
 #           V   V   V   V
